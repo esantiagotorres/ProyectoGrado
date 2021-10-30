@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/ProyectoGrado/sw.js';
+var swLocation = '/https://proyectopwa.herokuapp.com/sw.js';
 
 var swReg;
 
